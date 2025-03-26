@@ -8,7 +8,7 @@ public class Program
 { 
     public static void Main()
     {
-        Console.Title = "BestDuplicatesRemover | Created by https://github.com/GabryB03/";
+        Console.Title = "BestDuplicatesRemover | Created by https://github.com/ZygoteCode/";
 
         if (!(new WindowsPrincipal(WindowsIdentity.GetCurrent())).IsInRole(WindowsBuiltInRole.Administrator))
         {
